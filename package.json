@@ -1,0 +1,9 @@
+{
+	"name": "svelte-app",
+	"scripts": {
+		"test": "node main.js"
+	},
+	"devDependencies": {
+		"svelte": "^3.32.1"
+	}
+}
